@@ -1,5 +1,5 @@
 name: monad-branch
-version: 1.0.3
+version: 1.0.4
 synopsis: Monadic abstraction for computations that can be branched and run independently.
 category: Data
 license: Apache-2.0
